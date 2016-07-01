@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Exercise1&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Go/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../Go/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../Go/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../Go/src/git.eclipse.org" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
